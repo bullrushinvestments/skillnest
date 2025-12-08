@@ -1,0 +1,37 @@
+{
+  "name": "SkillNest",
+  "type": "saas",
+  "description": "SkillNest is an innovative micro-SaaS platform that combines educational technology and mental health apps to help professionals develop niche skills while managing stress and burnout through personalized, bite-sized learning modules.",
+  "generated_at": "2025-12-06T16:48:05.943297",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\saas\\skillnest\\src\\components\\component.tsx",
+    "businesses\\production_test\\saas\\skillnest\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\saas\\skillnest\\vercel.json",
+    "businesses\\production_test\\saas\\skillnest\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\saas\\skillnest\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\saas\\skillnest\\vercel.json",
+    "businesses\\production_test\\saas\\skillnest\\src\\components\\test.tsx",
+    "businesses\\production_test\\saas\\skillnest\\src\\app\\layout.tsx",
+    "businesses\\production_test\\saas\\skillnest\\src\\app\\globals.css",
+    "businesses\\production_test\\saas\\skillnest\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
